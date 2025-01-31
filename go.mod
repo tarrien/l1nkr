@@ -1,4 +1,4 @@
-module github.com/chrede88/L1nkrTemplate
+module github.com/tarrien/l1nkr
 
 go 1.23.5
 
